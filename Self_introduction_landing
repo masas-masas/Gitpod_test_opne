@@ -1,0 +1,20 @@
+<!DOCUTYPE html>
+ 
+<html>
+<head>
+  <meta charset="UTF-8">
+<title>ホームページの作り方<title>
+</head>
+<body>
+<article>
+<h1>ホームページ制作の基本</h1>
+ <section>
+   <h2>マークアップ</h2>
+   <p>ホームページはHTMLという言語を使いマークアップする</p>
+ </section>
+ <section>
+   <h2>HTML5の基本構文</h2>
+   <p>構造化をより進め、タグに意味を持たせる</p>
+ </section>
+<article>
+</body>
